@@ -1,5 +1,4 @@
-function stupidarraytheseconth(size) 
-{return new Array(size);}
+ {return new Array(size);}
 function sortingprogram(arr) 
 {var n = arr.length;
 for (var i = 0; i < n - 1; i++) 
